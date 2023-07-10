@@ -1,2 +1,2 @@
-source/** linguist-documentation=false
-source/** linguist-vendored=false
+app/** linguist-documentation=false
+app/** linguist-vendored=false
