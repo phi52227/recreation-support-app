@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/drawable/edge.xml" value="0.39692307692307693" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/drawable/edge_blue.xml" value="0.39692307692307693" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/font/font.xml" value="0.3953846153846154" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/activity_main.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/add_dialog.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/button_color.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main1.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main1_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main2.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main2_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main3.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_main3_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_note.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub1.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub1_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub2.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub2_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub3.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub3_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub4.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub4_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub5.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub5_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub5_clear_1.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub6.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub6_1.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub6_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_sub6_clear_1.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_tutorial.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/dialog_tutorial_clear.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/frag_inventory.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/frag_log.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/frag_store.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/frag_story.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/gold_dialog.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/listviewitem.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/listviewstory.xml" value="0.37135416666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/loglist_type.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/mix_dialog.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/layout/point_dialog.xml" value="0.14444444444444443" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/menu/bottom_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/AndroidStudioProjects/BY/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

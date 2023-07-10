@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_story"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="스토리"/>
+
+    <item
+        android:id="@+id/action_store"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_storefront_24"
+        android:title="상점"/>
+
+    <item
+        android:id="@+id/action_inventory"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_work_outline_24"
+        android:title="인벤토리"/>
+
+    <item
+        android:id="@+id/action_log"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_access_time_filled_24"
+        android:title="기록"/>
+
+</menu>

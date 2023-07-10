@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="합성할 아이템을 선택해주세요"
+        android:layout_marginBottom="20dp"
+        android:textSize="20sp"/>
+
+    <RadioGroup
+        android:id="@+id/mix_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/mix_rb_1"
+            android:layout_marginLeft="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="변신 해제 물약"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/mix_rb_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="자백제"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/mix_rb_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="문자 해독 돋보기"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/mix_rb_4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="개발자의 편지"
+            android:textSize="12sp" />
+
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/tv_mix"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="필요 아이템"
+        />
+
+
+
+</LinearLayout>

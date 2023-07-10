@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+    android:id="@+id/textViewGold"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="금액 입력" />
+
+    <EditText
+        android:id="@+id/editTextGold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginBottom="12dp"
+        android:hint="Gold"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textViewPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="비밀번호" />
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginBottom="12dp"
+        android:hint="Password"
+        android:inputType="textPassword" />
+
+    <RadioGroup
+        android:id="@+id/dialog_rg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/dialog_rb_plus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="증가"
+            android:textSize="12sp" />
+
+        <RadioButton
+            android:id="@+id/dialog_rb_minus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:text="감소"
+            android:textSize="12sp" />
+
+    </RadioGroup>
+
+
+</LinearLayout>
